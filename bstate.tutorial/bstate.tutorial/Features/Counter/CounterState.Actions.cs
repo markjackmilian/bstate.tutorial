@@ -4,5 +4,5 @@ namespace bstate.tutorial.Features.Counter;
 
 public partial class CounterState
 {
-    record Add : IAction;
+    record AddAction : IAction;
 }
